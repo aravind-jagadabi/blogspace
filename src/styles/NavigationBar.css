@@ -1,0 +1,24 @@
+.blogspace-logo{
+    width: fit-content;
+    height: fit-content;
+    max-width: 220px;
+    min-width: 100px;
+    margin:8px;
+}
+
+.navigation-bar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;    
+}
+
+.listnav-section {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.bloglist-section{
+    min-width: 270px;
+}
