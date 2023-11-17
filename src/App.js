@@ -31,7 +31,7 @@ function App() {
           <Route path="/createone" element = {<NewBlog addBlog = {addBlog} array = {array}/>} />
           <Route path="/yourblogs" element = {<BlogList array={array}/>} />
           <Route path="/yourblogs/:blogid" element = {<ShowBlog array = {array} deleteBlog = {deleteBlog} />} />
-          <Route path= "/" element = {<BlogSection />} />
+          <Route path= "/blogspace" element = {<BlogSection />} />
         </Routes>
       </Router>
       

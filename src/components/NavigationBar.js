@@ -6,7 +6,7 @@ import {Link} from 'react-router-dom';
 const NavigationBar = () => {
   return(
     <div className = 'navigation-bar'>
-      <Link to = '/'>
+      <Link to = '/blogspace'>
         <img src = {Logo} alt = 'blogspace-logo' className = 'blogspace-logo'/>
       </Link>
 
