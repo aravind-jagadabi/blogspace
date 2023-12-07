@@ -14,8 +14,6 @@
 
 ![Screenshot (724)](https://github.com/aravind-jagadabi/blogspace/assets/76617844/8ba47905-534a-4a44-9dea-696a4d6809f8)
 
-![Screenshot (725)](https://github.com/aravind-jagadabi/blogspace/assets/76617844/ae0f6c8f-e4fb-4f18-b766-31f2a100d4d4)
-
 ![Screenshot (726)](https://github.com/aravind-jagadabi/blogspace/assets/76617844/fdbe9678-d2ab-46ec-8671-089627910833)
 
 ![Screenshot (727)](https://github.com/aravind-jagadabi/blogspace/assets/76617844/154889ae-ad11-46d2-a1cc-18b046a1689a)
