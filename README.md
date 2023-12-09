@@ -1,3 +1,5 @@
+# Deleted Old Repo for not having file structure, now pushed the code again in organised.
+
 # Demo Pictures
 
 ![Screenshot (717)](https://github.com/aravind-jagadabi/blogspace/assets/76617844/174c528d-54d3-4280-aa8b-e8beb51c4fe4)
