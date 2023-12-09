@@ -1,4 +1,4 @@
-# Deleted Old Repo for not having file structure, now pushed the code again in organised.
+Deleted Old Repo for not having file structure, now pushed the code again in organized.
 
 # Demo Pictures
 
